@@ -31,8 +31,8 @@ _Information available only for possible references. I do not recommend followin
 | Motherboard  | Gigabyte Z390M Gaming X (LGA 1200) |
 | Bios Version  | F21  |
 | CPU  |  Intel i7-10700K @ 3.80GHz (Comet Lake) |
-|  IGPU | Intel CometLake-S GT2 [UHD Graphics 630]  |
-|  DGPU | AMD Radeon RX 6600M 8GB  |
+| IGPU | Intel CometLake-S GT2 [UHD Graphics 630]  |
+| DGPU | Sapphire Pulse AMD Radeon RX 6600 XT 8GB  |
 | RAM  | 4x 8GB Kingston Fury DDR4 2666 MHz  |
 | NVMe  | WD Blue SN570 1TB for macOS  |
 | SSD  | Kingston SA400S37480G 480Gb for Windows 11  |
@@ -53,7 +53,7 @@ _Information available only for possible references. I do not recommend followin
 | DGPU | ✅ | Whatevergreen + boot-args |
 | USB | ✅ | All ports working with USBToolBox Kext 1.2.0 and UTBMap kext |
 | Keyboard | ✅ | USB or Bluetooth + [Karabiner-Elements app](https://karabiner-elements.pqrs.org/ "Karabiner-Elements app") for mapping |
-| Audio | ✅ | AppleALC kext working with layout-id 7 |
+| Audio | ✅ | AppleALC kext working with layout-id 50 |
 | Ethernet | ✅ | IntelMausi Kext |
 | Bluetooth | ✅ | BlueToolFixup kext |
 | AppleTV+ DRM | ✅ | Working |
