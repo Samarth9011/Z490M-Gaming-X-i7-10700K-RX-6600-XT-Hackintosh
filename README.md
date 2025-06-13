@@ -1,5 +1,5 @@
 <p align="center">
- <img width="129px" src="https://github.com/user-attachments/assets/3b49b27a-a744-43c0-bc1c-984f0f4a020f" align="center" />
+ <img width="600px" src="https://github.com/user-attachments/assets/3b49b27a-a744-43c0-bc1c-984f0f4a020f" align="center" />
  <h2 align="center">macOS on Gigabyte Z490M Gaming X - i7-10700K & Sapphire Pulse AMD Radeon RX 6600 XT 🇧🇷</h2>
  <p align="center">Opencore EFI and info for running macOS Sequoia and Tahoe 26 Beta 1.</p>
 <p align="center"><img src="https://img.shields.io/badge/Bios-F21-blue?logo=lenovo&amp;logoColor=%23fff" alt="Lenovo BIOS" />&nbsp;<img src="https://img.shields.io/badge/Opencore-1.0.5 DEV -black" alt="Opencore Release" />&nbsp;<img src="https://img.shields.io/badge/MacOS-Sequoia 15.5 & Tahoe Beta 1-green?logo=apple&amp;logoColor=%23fff" alt="MacOS Version" /></p>
